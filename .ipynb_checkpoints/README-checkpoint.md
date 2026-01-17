@@ -84,7 +84,7 @@ This project uses PCA residuals as a **diagnostic tool** for relative value anal
 - Trades are intended to be **curve-neutral**, targeting mean reversion.
 - The framework helps distinguish genuine dislocations from normal curve behaviour.
 
-No trading recommendations are made; the notebook provides a systematic way to **identify and analyse potential RV opportunities**.
+The notebook provides a systematic way to **identify and analyse potential RV opportunities**.
 
 ---
 
